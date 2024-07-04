@@ -112,6 +112,7 @@
   line-height: 31.75px;
   text-align: center;
   color: rgba(55, 57, 63, 1);
+  margin-bottom: 16px;
 }
 .container-dscrptn {
   font-family: Inter;
@@ -164,7 +165,6 @@
   width: 511px;
   height: 270.5px;
   position: absolute;
-
   margin-bottom: 80px;
 }
 .Short-video {
