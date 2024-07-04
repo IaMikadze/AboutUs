@@ -1,0 +1,246 @@
+.span-ll {
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 37.5px;
+  text-align: left;
+  color: rgba(107, 119, 229, 1);
+}
+
+.line {
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 37.5px;
+  text-align: left;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  margin-top: 53px;
+}
+
+.container-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 38px;
+  margin-right: 195px;
+}
+.nav-bar {
+  display: flex;
+  width: 601px;
+  height: 22px;
+
+  align-items: center;
+  /* fonts */
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21.78px;
+  text-align: center;
+  gap: 25px;
+}
+.button {
+  width: Hug (184px) px;
+  height: Hug (65px) px;
+  padding: 21px 35px 22px 35px;
+  gap: 10px;
+  opacity: 0px;
+  background-color: rgba(107, 119, 229, 1);
+  color: white;
+  border: none;
+  /* font */
+  font-family: Cabin;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21.87px;
+  text-align: center;
+  margin-left: 40px;
+}
+.headings {
+}
+.section1 {
+  width: Fixed (283px) px;
+  height: Hug (86px) px;
+}
+.work-process {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.78px;
+  text-align: center;
+  color: rgba(55, 57, 63, 1);
+  margin-bottom: 16px;
+  margin-top: 136px;
+}
+.how-we-work {
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48.4px;
+  text-align: center;
+  color: rgba(55, 57, 63, 1);
+  margin-bottom: 41px;
+}
+.three-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1220px px;
+  height: 383px px;
+  gap: 31px;
+}
+
+.cont1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(244, 244, 244, 1);
+  width: 386px;
+  height: 383px;
+
+  gap: 10px;
+  opacity: 0px;
+}
+.subheading {
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 31.75px;
+  text-align: center;
+  color: rgba(55, 57, 63, 1);
+}
+.container-dscrptn {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26.31px;
+  text-align: center;
+  color: rgba(55, 57, 63, 1);
+}
+.bluetext {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21.78px;
+  text-align: center;
+  color: rgba(107, 119, 229, 1);
+  margin-top: 37px;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(64, 221, 182, 1);
+  width: 72px;
+  height: 72px;
+  border-radius: 100px;
+}
+#iconColor {
+  background-color: rgba(107, 119, 229, 1);
+}
+/* section2 */
+.cover {
+  margin-top: 60px;
+}
+.main-container-photo {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container-photo {
+}
+.phototext {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 511px;
+  height: 270.5px;
+  position: absolute;
+
+  margin-bottom: 80px;
+}
+.Short-video {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.78px;
+  text-align: center;
+  color: rgba(55, 57, 63, 1);
+}
+.Presentation {
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48.4px;
+  text-align: center;
+  color: rgba(55, 57, 63, 1);
+  padding-bottom: 21px;
+  padding-top: 16px;
+}
+.icon-video {
+}
+.video-icon-color {
+  display: flex;
+  justify-content: center;
+
+  align-items: center;
+  background-color: rgba(107, 119, 229, 1);
+  position: absolute;
+  width: 64.5px;
+  height: 64.5px;
+  top: 206px;
+  left: 223.25px;
+  gap: 0px;
+  opacity: 0px;
+  border-radius: 100px;
+}
+.three-container-photos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 31px;
+  width: Fixed (1220px);
+  height: Hug (659px);
+  top: 1511px;
+  left: 348px;
+  gap: 41px;
+  opacity: 0px;
+}
+.cont2 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 10px;
+  margin-bottom: 131px;
+  margin-top: 41px;
+  position: relative;
+}
+
+.texts2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  background-color: white;
+  width: Fixed (341px) px;
+  height: Hug (114px) px;
+  top: 396px;
+  left: 22px;
+  padding: 24px 69px 24px 69px;
+  gap: 10px;
+  opacity: 0px;
+}
+.nomargin {
+  margin: 0;
+  padding: 0;
+}
